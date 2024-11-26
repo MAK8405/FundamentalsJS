@@ -1,0 +1,1 @@
+const human = new Object();
